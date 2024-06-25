@@ -1,0 +1,10 @@
+.background-image {
+    background-image: url("data:image/png;base64,${image}");
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
